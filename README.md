@@ -9,8 +9,7 @@
   <em>
     Fullstak javascript developer
     <img src="https://media.giphy.com/media/j3fdZ1QIhCpBlWUONw/giphy.gif" width="30"/><br/>
-    Software Developer at 
-    <a href="https://www.ipsumapp.co">IPSUM</a>
+    Software Developer at Altimetrik Mexico
     <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" width="30">
    </em>
 </p>
