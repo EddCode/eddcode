@@ -47,4 +47,4 @@ const edgar = {
 
 <hr />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddcode&layout=compact&theme=gruvbox&langs_count=6&hide=java"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddcode&layout=compact&langs_count=6&hide=java"/>
